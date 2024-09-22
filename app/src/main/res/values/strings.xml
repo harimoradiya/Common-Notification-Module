@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CommonNoti</string>
+    <string name="show_notification">Show notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+</resources>
